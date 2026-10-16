@@ -47,46 +47,9 @@ The following values are example data used in the prototype.
 4. Decision-related responses can be recorded in a mission decision log.
 5. Unconfirmed outcomes are marked as pending confirmation.
 
-## 📁 Project Structure
 
-```text
-aurora-7-mission-assistant/
-├── README.md
-└── mission-report.js
-```
 
-Additional files can be added as the project develops.
-
-## 🚀 Live Demo
-
-**Botpress chatbot:** [PASTE YOUR PUBLIC BOTPRESS LINK HERE]
-
-## 💻 Run the Mission Report Example
-
-Make sure Node.js is installed, then run:
-
-```bash
-node mission-report.js
-```
-
-This runs the standalone JavaScript mission-report example included in this repository. It does not launch the Botpress chatbot.
-
-## 🔮 Future Improvements
-
-- Dynamic mission resource updates
-- More detailed mission decision logs
-- Mission history and audit trail
-- Improved error handling and validation
-- Integration with external telemetry data
-
-## ⚠️ Disclaimer
-
-AURORA-7 is an educational simulation and demonstration project. Its mission data and recommendations should not be used for real spacecraft operations.
-
-## 👨‍💻 Author
-
-Project developed as an AI-powered mission-assistant prototype.
-
+#
 
 
 ## 💬 Interactive Chat Experience
