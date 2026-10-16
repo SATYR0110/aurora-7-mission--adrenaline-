@@ -89,6 +89,20 @@ Project developed as an AI-powered mission-assistant prototype.
 
 
 
+## 💬 Interactive Chat Experience
+
+AURORA-7 provides an interactive conversational experience:
+
+1. **Ask any question:** Users can ask the mission assistant questions in natural language.
+2. **Greeting and response:** The bot responds conversationally, using a greeting where appropriate, and answers the user's question.
+3. **Continuous conversation:** After responding, the bot returns to its question-answering flow so users can ask another question.
+4. **Ask follow-up questions:** Users can continue exploring mission status, resources, equipment issues, and decision-support recommendations in the same chat session.
+
+The conversation loop keeps the assistant ready for the next question instead of ending after a single response.
+
+
+
+
 
 
 https://cdn.botpress.cloud/webchat/v3.7/shareable.html?configUrl=https://files.bpcontent.cloud/2026/10/16/15/20261016150659-FJ0J4DF5.json
